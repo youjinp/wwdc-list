@@ -1,3 +1,17 @@
+# TOC
+
+1. [2010](#wwdc-2010)
+1. [2011](#wwdc-2011)
+1. [2012](#wwdc-2012)
+1. [2013](#wwdc-2013)
+1. [2014](#wwdc-2014)
+1. [2015](#wwdc-2015)
+1. [2016](#wwdc-2016)
+1. [2017](#wwdc-2017)
+1. [2018](#wwdc-2018)
+1. [2019](#wwdc-2019)
+1. [2020](#wwdc-2020)
+
 # WWDC 2010
 - Accessibility on iPhone OS · Session 122 [hd](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__hd/session_122__accessibility_on_iphone_os.mov) | [sd](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_122__accessibility_on_iphone_os.mov) | [pdf](https://developer.apple.com/devcenter/download.action?path=/wwdc_2010/wwdc_2010_video_assets__pdfs/122__accessibility_on_iphone_os.pdf)
 - Accessing Shared Contact Information · Session 119 [hd](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__hd/session_119__accessing_shared_contact_information.mov) | [sd](https://developer.apple.com/devcenter/download.action?path=/videos/wwdc_2010__sd/session_119__accessing_shared_contact_information.mov) | [pdf](https://developer.apple.com/devcenter/download.action?path=/wwdc_2010/wwdc_2010_video_assets__pdfs/119__accessing_shared_contact_information.pdf)
