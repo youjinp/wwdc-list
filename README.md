@@ -1,3 +1,7 @@
+# Click Me
+
+Click [here](https://github.com/youjinp/wwdc-list/blob/main/README.md) to see the full list, because this file exceeds github's [README size limit](https://github.com/isaacs/github/issues/1610)
+
 # TOC
 
 1. [2010](#wwdc-2010)
