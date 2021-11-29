@@ -1,6 +1,6 @@
 # Click Me
 
-Click [here](https://github.com/youjinp/wwdc-list/blob/main/README.md) to see the full list, because this file exceeds github's [README size limit](https://github.com/isaacs/github/issues/1610)
+Click [here](https://github.com/youjinp/wwdc-list/blob/main/README.md) to see the full list, because this file exceeds github's [README size limit](https://github.com/isaacs/github/issues/1610) (also [here](https://github.community/t/does-readme-md-have-max-characters/128124))
 
 # TOC
 
