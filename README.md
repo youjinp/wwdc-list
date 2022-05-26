@@ -8,6 +8,7 @@ Credit goes to @IsaacXen and @pvieito for the 2009 wwdcs
 
 # TOC
 
+1. [2009](#wwdc-2009)
 1. [2010](#wwdc-2010)
 1. [2011](#wwdc-2011)
 1. [2012](#wwdc-2012)
